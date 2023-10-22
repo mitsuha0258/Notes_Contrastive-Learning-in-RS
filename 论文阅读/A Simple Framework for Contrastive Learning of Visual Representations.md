@@ -1,4 +1,4 @@
-论文阅读：SimCLR
+论文阅读：（SimCLR）《A Simple Framework for Contrastive Learning of Visual Representations》
 
 > 论文信息
 >
